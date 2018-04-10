@@ -10,3 +10,6 @@ the most metal bookmarking solution.
 - Select the repository folder
 - Open folder
 - [Open Bookmarks](chrome://bookmarks/)
+
+### Firefox Instructions
+- Ask Loki.
