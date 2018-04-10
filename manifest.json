@@ -1,0 +1,13 @@
+{
+    "name": "Thórsmörk",
+    "version": "1.0",
+    "description": "the most metal bookmarking solution.",
+    "background": {
+        "scripts": ["index.js"],
+        "persistent": false
+      },
+      "permissions": [
+        "bookmarks"
+      ],
+    "manifest_version": 2
+}
