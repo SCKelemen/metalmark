@@ -3,6 +3,7 @@ Control video playback rate on any website.
 
 ![screenshot](docs/screenshot.png)
 
+
 ### Instructions
  - [Open Extensions](chrome://extensions/) (chrome://extensions/)
  - Click 'Load unpacked extension...' 
