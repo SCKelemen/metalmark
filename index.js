@@ -4,7 +4,7 @@ var API = chrome || browser;
 API.runtime.onInstalled.addListener(function() {
     console.log("Installing Speeds"); 
     API.bookmarks.create({'parentId': "1",
-                               'title': 'Playback Speed'},
+                               'title': 'Playback Rate'},
                               function(newFolder) {
                                 API.bookmarks.create({'parentId': newFolder.id,
                                 'title': '1x',

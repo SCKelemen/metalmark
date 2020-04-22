@@ -1,7 +1,5 @@
-# Thórsmörk
-Thórsmörk - Thórsmörk (Icelandic: Þórsmörk) is a mountain ridge in 
-Iceland that was named after the Norse god Thor (Þór). It is also 
-a speed control solution.
+# Throttle
+A speed control solution.
 
 
 ### Instructions
@@ -10,6 +8,7 @@ a speed control solution.
  - Select the repository folder
  - Open folder
  - [Open Bookmarks](chrome://bookmarks/) (chrome://bookmarks/)
+ - You can now remove the extension
 
 ### Firefox Instructions
- - Ask Loki.
+ - Should work the same.

@@ -1,7 +1,7 @@
 {
-    "name": "Playback Speed",
-    "version": "2.3",
-    "description": "A lazy approach to speed control",
+    "name": "Throttle",
+    "version": "3.0",
+    "description": "A lazy approach to adjustable playback rates",
     "background": {
         "scripts": ["index.js"],
         "persistent": false
