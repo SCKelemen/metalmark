@@ -1,7 +1,7 @@
 {
-    "name": "Thórsmörk",
+    "name": "Playback Speed",
     "version": "1.0",
-    "description": "the most metal bookmarking solution.",
+    "description": "A lazy approach to speed control",
     "background": {
         "scripts": ["index.js"],
         "persistent": false
