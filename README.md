@@ -2,6 +2,7 @@
 A speed control solution.
 
 
+
 ### Instructions
  - [Open Extensions](chrome://extensions/) (chrome://extensions/)
  - Click 'Load unpacked extension...' 
