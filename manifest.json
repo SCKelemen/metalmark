@@ -1,6 +1,6 @@
 {
     "name": "Playback Speed",
-    "version": "2.2",
+    "version": "2.3",
     "description": "A lazy approach to speed control",
     "background": {
         "scripts": ["index.js"],
