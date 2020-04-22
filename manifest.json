@@ -1,6 +1,6 @@
 {
     "name": "Throttle",
-    "version": "3.0",
+    "version": "4.2.0",
     "description": "A lazy approach to adjustable playback rates",
     "background": {
         "scripts": ["index.js"],
